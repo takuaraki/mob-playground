@@ -1,2 +1,14 @@
-.gradle/
-out/
+#
+# Copied from: https://github.com/Kotlin/kotlin-koans/blob/master/.gitignore
+#
+
+out
+
+# IDEA
+.idea
+*.iml
+local.properties
+
+# Gradle
+.gradle
+build
